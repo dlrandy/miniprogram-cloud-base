@@ -1,0 +1,1 @@
+"/Applications/wechatwebdevtools.app/Contents/MacOS/cli" cloud functions deploy --e cloud1-5ggh3kw62f84d70b --n quickstartFunctions --r --project "/Users/xingjiabin/WeChatProjects/miniprogram-4" --report_first --report
